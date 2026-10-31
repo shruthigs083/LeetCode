@@ -20,6 +20,7 @@
 | [0055-jump-game](https://github.com/shruthigs083/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/shruthigs083/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shruthigs083/LeetCode/tree/master/0135-candy) |
+| [0406-queue-reconstruction-by-height](https://github.com/shruthigs083/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/shruthigs083/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shruthigs083/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shruthigs083/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -40,6 +41,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/shruthigs083/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/shruthigs083/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shruthigs083/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shruthigs083/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -55,4 +57,12 @@
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/shruthigs083/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/shruthigs083/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/shruthigs083/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
