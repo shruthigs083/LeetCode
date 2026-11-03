@@ -24,6 +24,7 @@
 | [0406-queue-reconstruction-by-height](https://github.com/shruthigs083/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/shruthigs083/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shruthigs083/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0542-01-matrix](https://github.com/shruthigs083/LeetCode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/shruthigs083/LeetCode/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shruthigs083/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/shruthigs083/LeetCode/tree/master/0733-flood-fill) |
@@ -61,6 +62,7 @@
 | [0045-jump-game-ii](https://github.com/shruthigs083/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shruthigs083/LeetCode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/shruthigs083/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/shruthigs083/LeetCode/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shruthigs083/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Longest Increasing Subsequence
 |  |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shruthigs083/LeetCode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/shruthigs083/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shruthigs083/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shruthigs083/LeetCode/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shruthigs083/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -121,6 +124,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shruthigs083/LeetCode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/shruthigs083/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shruthigs083/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shruthigs083/LeetCode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
