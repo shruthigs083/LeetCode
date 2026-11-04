@@ -18,6 +18,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/shruthigs083/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shruthigs083/LeetCode/tree/master/0055-jump-game) |
+| [0130-surrounded-regions](https://github.com/shruthigs083/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/shruthigs083/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shruthigs083/LeetCode/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/shruthigs083/LeetCode/tree/master/0200-number-of-islands) |
@@ -100,6 +101,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shruthigs083/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shruthigs083/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/shruthigs083/LeetCode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/shruthigs083/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -107,6 +109,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shruthigs083/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shruthigs083/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/shruthigs083/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shruthigs083/LeetCode/tree/master/0733-flood-fill) |
@@ -116,6 +119,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shruthigs083/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shruthigs083/LeetCode/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/shruthigs083/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shruthigs083/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -127,6 +131,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shruthigs083/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shruthigs083/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/shruthigs083/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shruthigs083/LeetCode/tree/master/0733-flood-fill) |
