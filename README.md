@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shruthigs083/LeetCode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/shruthigs083/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shruthigs083/LeetCode/tree/master/0055-jump-game) |
 | [0130-surrounded-regions](https://github.com/shruthigs083/LeetCode/tree/master/0130-surrounded-regions) |
@@ -81,6 +82,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shruthigs083/LeetCode/tree/master/0001-two-sum) |
 | [0621-task-scheduler](https://github.com/shruthigs083/LeetCode/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
