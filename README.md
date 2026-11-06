@@ -36,6 +36,7 @@
 | [1020-number-of-enclaves](https://github.com/shruthigs083/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1029-two-city-scheduling](https://github.com/shruthigs083/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1710-maximum-units-on-a-truck](https://github.com/shruthigs083/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
+| [1905-count-sub-islands](https://github.com/shruthigs083/LeetCode/tree/master/1905-count-sub-islands) |
 | [2747-count-zero-request-servers](https://github.com/shruthigs083/LeetCode/tree/master/2747-count-zero-request-servers) |
 ## Greedy
 |  |
@@ -111,6 +112,7 @@
 | [0200-number-of-islands](https://github.com/shruthigs083/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/shruthigs083/LeetCode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/shruthigs083/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1905-count-sub-islands](https://github.com/shruthigs083/LeetCode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shruthigs083/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -121,6 +123,7 @@
 | [0733-flood-fill](https://github.com/shruthigs083/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shruthigs083/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shruthigs083/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1905-count-sub-islands](https://github.com/shruthigs083/LeetCode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shruthigs083/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -128,6 +131,7 @@
 | [0130-surrounded-regions](https://github.com/shruthigs083/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shruthigs083/LeetCode/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/shruthigs083/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1905-count-sub-islands](https://github.com/shruthigs083/LeetCode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shruthigs083/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -143,6 +147,7 @@
 | [0733-flood-fill](https://github.com/shruthigs083/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shruthigs083/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shruthigs083/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1905-count-sub-islands](https://github.com/shruthigs083/LeetCode/tree/master/1905-count-sub-islands) |
 ## Sliding Window
 |  |
 | ------- |
