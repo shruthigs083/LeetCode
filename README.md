@@ -111,6 +111,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/shruthigs083/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shruthigs083/LeetCode/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/shruthigs083/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/shruthigs083/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shruthigs083/LeetCode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/shruthigs083/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -122,6 +123,7 @@
 | [0130-surrounded-regions](https://github.com/shruthigs083/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shruthigs083/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/shruthigs083/LeetCode/tree/master/0542-01-matrix) |
+| [0684-redundant-connection](https://github.com/shruthigs083/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/shruthigs083/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shruthigs083/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shruthigs083/LeetCode/tree/master/0994-rotting-oranges) |
@@ -133,6 +135,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/shruthigs083/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shruthigs083/LeetCode/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/shruthigs083/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/shruthigs083/LeetCode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/shruthigs083/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1905-count-sub-islands](https://github.com/shruthigs083/LeetCode/tree/master/1905-count-sub-islands) |
@@ -140,6 +143,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/shruthigs083/LeetCode/tree/master/0684-redundant-connection) |
 | [1791-find-center-of-star-graph](https://github.com/shruthigs083/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shruthigs083/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
