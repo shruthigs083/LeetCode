@@ -121,6 +121,7 @@
 | [0802-find-eventual-safe-states](https://github.com/shruthigs083/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/shruthigs083/LeetCode/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/shruthigs083/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1462-course-schedule-iv](https://github.com/shruthigs083/LeetCode/tree/master/1462-course-schedule-iv) |
 | [1905-count-sub-islands](https://github.com/shruthigs083/LeetCode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shruthigs083/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -140,6 +141,7 @@
 | [0886-possible-bipartition](https://github.com/shruthigs083/LeetCode/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/shruthigs083/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shruthigs083/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1462-course-schedule-iv](https://github.com/shruthigs083/LeetCode/tree/master/1462-course-schedule-iv) |
 | [1905-count-sub-islands](https://github.com/shruthigs083/LeetCode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shruthigs083/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -164,6 +166,7 @@
 | [0785-is-graph-bipartite](https://github.com/shruthigs083/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/shruthigs083/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/shruthigs083/LeetCode/tree/master/0886-possible-bipartition) |
+| [1462-course-schedule-iv](https://github.com/shruthigs083/LeetCode/tree/master/1462-course-schedule-iv) |
 | [1791-find-center-of-star-graph](https://github.com/shruthigs083/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shruthigs083/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
@@ -198,6 +201,7 @@
 | [0210-course-schedule-ii](https://github.com/shruthigs083/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/shruthigs083/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/shruthigs083/LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [1462-course-schedule-iv](https://github.com/shruthigs083/LeetCode/tree/master/1462-course-schedule-iv) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
