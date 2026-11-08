@@ -36,6 +36,7 @@
 | [0994-rotting-oranges](https://github.com/shruthigs083/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shruthigs083/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1029-two-city-scheduling](https://github.com/shruthigs083/LeetCode/tree/master/1029-two-city-scheduling) |
+| [1267-count-servers-that-communicate](https://github.com/shruthigs083/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1710-maximum-units-on-a-truck](https://github.com/shruthigs083/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1905-count-sub-islands](https://github.com/shruthigs083/LeetCode/tree/master/1905-count-sub-islands) |
 | [2747-count-zero-request-servers](https://github.com/shruthigs083/LeetCode/tree/master/2747-count-zero-request-servers) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/shruthigs083/LeetCode/tree/master/0621-task-scheduler) |
+| [1267-count-servers-that-communicate](https://github.com/shruthigs083/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Hungarian Algorithm
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [0802-find-eventual-safe-states](https://github.com/shruthigs083/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/shruthigs083/LeetCode/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/shruthigs083/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/shruthigs083/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1462-course-schedule-iv](https://github.com/shruthigs083/LeetCode/tree/master/1462-course-schedule-iv) |
 | [1905-count-sub-islands](https://github.com/shruthigs083/LeetCode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shruthigs083/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -145,6 +148,7 @@
 | [0886-possible-bipartition](https://github.com/shruthigs083/LeetCode/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/shruthigs083/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shruthigs083/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/shruthigs083/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1462-course-schedule-iv](https://github.com/shruthigs083/LeetCode/tree/master/1462-course-schedule-iv) |
 | [1905-count-sub-islands](https://github.com/shruthigs083/LeetCode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shruthigs083/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -158,6 +162,7 @@
 | [0785-is-graph-bipartite](https://github.com/shruthigs083/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/shruthigs083/LeetCode/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/shruthigs083/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/shruthigs083/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1905-count-sub-islands](https://github.com/shruthigs083/LeetCode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shruthigs083/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -183,6 +188,7 @@
 | [0733-flood-fill](https://github.com/shruthigs083/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shruthigs083/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shruthigs083/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/shruthigs083/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1905-count-sub-islands](https://github.com/shruthigs083/LeetCode/tree/master/1905-count-sub-islands) |
 ## Sliding Window
 |  |
