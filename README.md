@@ -88,6 +88,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shruthigs083/LeetCode/tree/master/0001-two-sum) |
+| [0127-word-ladder](https://github.com/shruthigs083/LeetCode/tree/master/0127-word-ladder) |
 | [0621-task-scheduler](https://github.com/shruthigs083/LeetCode/tree/master/0621-task-scheduler) |
 | [2747-count-zero-request-servers](https://github.com/shruthigs083/LeetCode/tree/master/2747-count-zero-request-servers) |
 ## Heap (Priority Queue)
@@ -127,6 +128,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/shruthigs083/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/shruthigs083/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shruthigs083/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shruthigs083/LeetCode/tree/master/0207-course-schedule) |
@@ -214,4 +216,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shruthigs083/LeetCode/tree/master/0207-course-schedule) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/shruthigs083/LeetCode/tree/master/0127-word-ladder) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/shruthigs083/LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
